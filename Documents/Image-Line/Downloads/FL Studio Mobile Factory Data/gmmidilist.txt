@@ -1,0 +1,128 @@
+1.	Acoustic Grand Piano		.Close Grand
+2.	Bright Acoustic Piano		.Grand Piano
+3.	Electric Grand Piano		.Electric
+4.	Honky-tonk Piano		.Grand Piano
+5.	Electric Piano 1		.Sytrus Rhodes Piano
+6.	Electric Piano 2		.Rhodes
+7.	Harpsichord			.Sytrus Harpsichord
+8.	Clavi				.Morphine Clavinet
+9.	Celesta				.Morphine CP70
+10.	Glockenspiel			.Sytrus Vibraphone
+11.	Music Box			.Ogun Clockwork
+12.	Vibraphone			.Sytrus Vibraphone
+13.	Marimba				.Sytrus Vibraphone
+14.	Xylophone			.Sytrus Vibraphone
+15.	Tubular Bells			.Sytrus Vibraphone
+16.	Dulcimer			.Koto
+17.	Drawbar Organ			.Drawbar Organ
+18.	Percussive Organ		.Drawbar Organ
+19.	Rock Organ			.PoiZone Noise Organ
+20.	Church Organ			.Church Organ
+21.	Reed Organ			.Church Organ
+22.	Accordion			.Sawer Cutting Lead
+23.	Harmonica			.Sawer Cutting Lead
+24.	Tango Accordion			.Sawer Cutting Lead
+25.	Acoustic Guitar (nylon)		.Nylon Guitar
+26.	Acoustic Guitar (steel)		.Acoustic Guitar
+27.	Electric Guitar (jazz)		.Purity Guitar
+28.	Electric Guitar (clean)		.Purity Guitar
+29.	Electric Guitar (muted)		.Purity Guitar
+30.	Overdriven Guitar		.E-Guitar
+31.	Distortion Guitar		.E-Guitar
+32.	Guitar harmonics		.Purity Guitar
+33.	Acoustic Bass			.Acoustic Bass
+34.	Electric Bass (finger)		.Plucked Bass
+35.	Electric Bass (pick)		.Picked Bass
+36.	Fretless Bass			.Acoustic Bass
+37.	Slap Bass 1			.Plucked Bass
+38.	Slap Bass 2			.Plucked Bass
+39.	Synth Bass 1			.Poizone Fat Saw
+40.	Synth Bass 2			.PoiZone Square Bass
+41.	Violin				.Strings Solo
+42.	Viola				.Strings Solo
+43.	Cello				.Strings Solo
+44.	Contrabass			.Strings Solo
+45.	Tremolo Strings			.Strings Solo
+46.	Pizzicato Strings		.Strings Solo
+47.	Orchestral Harp			.Harp
+48.	Timpani				.Sytrus Vibraphone
+49.	String Ensemble 1		.String Ensemble 1
+50.	String Ensemble 2		.Strings Section
+51.	SynthStrings 1			.Morphine Synth Strings
+52.	SynthStrings 2			.Mellotron
+53.	Choir Aahs			.Choir Ahh
+54.	Voice Oohs			.Choir Ooh
+55.	Synth Voice			.Morphine Eye Lead
+56.	Orchestra Hit			.String Ensemble 2
+57.	Trumpet				.Brass Section
+58.	Trombone			.Brass Section
+59.	Tuba				.Brass Section
+60.	Muted Trumpet			.Brass Section
+61.	French Horn			.French Horn
+62.	Brass Section			.Brass Section
+63.	SynthBrass 1			.PoiZone Saw Lead
+64.	SynthBrass 2			.Harmless 70s Lead
+65.	Soprano Sax			.Alto Sax
+66.	Alto Sax			.Alto Sax
+67.	Tenor Sax			.Alto Sax
+68.	Baritone Sax			.Alto Sax
+69.	Oboe				.Woodwind section
+70.	English Horn			.French Horn
+71.	Bassoon				.Woodwind section
+72.	Clarinet			.Woodwind section
+73.	Piccolo				.Woodwind section
+74.	Flute				.Flute
+75.	Recorder			.Woodwind section
+76.	Pan Flute			.Woodwind section
+77.	Blown Bottle			.Woodwind section
+78.	Shakuhachi			.Woodwind section
+79.	Whistle				.Flute
+80.	Ocarina				.Flute
+81.	Lead 1 (square)			.Harmless One Lead
+82.	Lead 2 (sawtooth)		.PoiZone Saw Lead
+83.	Lead 3 (calliope)		.PoiZone Noise Organ
+84.	Lead 4 (chiff)			.Morphine Orbit Lead
+85.	Lead 5 (charang)		.PoiZone Nasty Lead
+86.	Lead 6 (voice)			.Morphine Eye Lead
+87.	Lead 7 (fifths)			.Ravegospel
+88.	Lead 8 (bass + lead)		.Sawer Cutting Lead
+89.	Pad 1 (new age)			.Ogun Clockwork
+90.	Pad 2 (warm)			.Sytrus Warm Pad
+91.	Pad 3 (polysynth)		.Harmless Classic Pad
+92.	Pad 4 (choir)			.Choir Ahh
+93.	Pad 5 (bowed)			.Morphine Synth Strings
+94.	Pad 6 (metallic)		.Toxic Earth Pad
+95.	Pad 7 (halo)			.Choir Ahh
+96.	Pad 8 (sweep)			.Sawer Blast Pad
+97.	FX 1 (rain)			.Sytrus Vibraphone
+98.	FX 2 (soundtrack)		.Sytrus Warm Pad
+99.	FX 3 (crystal)			.Harmless Energy Key
+100.	FX 4 (atmosphere)		.Toxic Whurl Piano
+101.	FX 5 (brightness)		.Sytrus Epic Key
+102.	FX 6 (goblins)			.Sytrus Warm Pad
+103.	FX 7 (echoes)			.Choir Ahh
+104.	FX 8 (sci-fi)			.Sytrus Amanda Key
+105.	Sitar				.Koto
+106.	Banjo				.Koto
+107.	Shamisen			.Koto
+108.	Koto				.Koto
+109.	Kalimba				.Koto
+110.	Bag pipe			.Lead Beast
+111.	Fiddle				.Strings Solo
+112.	Shanai				.Strings Solo
+113.	Tinkle Bell			.Sytrus Vibraphone
+114.	Agogo				.Sytrus 808 Tom
+115.	Steel Drums			.Sytrus 808 Tom
+116.	Woodblock			.Sytrus 808 Tom
+117.	Taiko Drum			.Sytrus 808 Tom
+118.	Melodic Tom			.Sytrus 808 Tom
+119.	Synth Drum			.Sytrus 808 Tom
+120.	Reverse Cymbal			.
+121.	Guitar Fret Noise		.
+122.	Breath Noise			.
+123.	Seashore			.
+124.	Bird Tweet			.
+125.	Telephone Ring			.
+126.	Helicopter			.
+127.	Applause			.
+128.	Gunshot				.
