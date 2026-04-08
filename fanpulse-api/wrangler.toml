@@ -1,0 +1,33 @@
+# ─────────────────────────────────────────────────────────────
+# FanPulse API — Cloudflare Worker Configuration
+# Deploy: npx wrangler deploy
+# Secrets: npx wrangler secret put SECRET_NAME
+# ─────────────────────────────────────────────────────────────
+
+name                 = "fanpulse-api"
+main                 = "src/index.js"
+compatibility_date   = "2025-01-01"
+compatibility_flags  = ["nodejs_compat"]
+
+# ── Cron triggers (replaces node-cron) ───────────────────────
+# Cloudflare minimum is 1 minute (was 30s on Render)
+[triggers]
+crons = [
+  "* * * * *",        # every minute  → live score sync
+  "*/2 * * * *",      # every 2 min   → score predictions
+  "0 */6 * * *",      # every 6 hours → league standings
+  "0 */12 * * *",     # every 12 hrs  → AI match predictions
+]
+
+# ── Plain (non-secret) variables ─────────────────────────────
+# Secrets are set via: npx wrangler secret put <NAME>
+# Never put real values here — this file is committed to GitHub
+[vars]
+FRONTEND_URL  = "https://fanpulse.pages.dev"
+WC_LEAGUE_ID  = "1"
+WC_SEASON     = "2026"
+NODE_ENV      = "production"
+
+# ── Local development overrides (.dev.vars is gitignored) ────
+# Create a .dev.vars file locally with your real secret values
+# for use with: npx wrangler dev
