@@ -1,0 +1,9 @@
+{
+  "name": "fanpulse-frontend",
+  "version": "1.0.0",
+  "description": "FanPulse World Cup 2026 — Cloudflare Pages Frontend",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
